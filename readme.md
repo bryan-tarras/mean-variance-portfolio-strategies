@@ -1,3 +1,3 @@
-Testing readme files.
+This project involves the creation of a variety of trading algorithms and tests their performance against one another for the time periods of 2015-2016.
 
-This is a project which details different trading strategies for Mean Variance Optimization
+The assets that are being traded can be seen in the data files attached. There are 20 different assets.
